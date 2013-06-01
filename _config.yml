@@ -1,0 +1,21 @@
+# server settings
+safe: true
+lsi: false
+port: 4001
+timezone: "America/New_York"
+show_drafts: nil
+
+# blog settings
+title: "Bill's tech blog"
+url: "http://billturner.github.io"
+email: "hello@billturner.me"
+author: "Bill Turner"
+description: "Bill Turner's weblog for more technically-inclined things."
+source: .
+paginate: 10
+permalink: pretty
+exclude: [".ruby-version", "Gemfile", "Gemfile.lock"]
+
+# markup
+markdown: redcarpet
+pygments: true

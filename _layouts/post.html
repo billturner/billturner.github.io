@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<article>
+  <h2><a href="{{ site.url }}{{ page.url }}" rel="bookmark permalink" title="Permanent link to this post">{{ page.title }}</a></h2>
+  {{ content }}
+  <p>
+    Posted {{ page.date | date: "%Y-%m-%d %I:%M%p" }}
+    {% if page.tags.size > 0 %}
+      &mdash;
+      {% for tag in page.tags %}
+        #{{ tag }}
+      {% endfor %}
+    {% endif %}
+  </p>
+</article>

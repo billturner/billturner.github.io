@@ -1,0 +1,11 @@
+---
+layout: default
+title: All posts on the weblog
+---
+<h2>All posts</h2>
+<p>List of all public posts on the weblog:</p>
+<ul>
+{% for post in site.posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%Y-%m-%d %I:%M%p" }}</li>
+{% endfor %}
+</ul>
