@@ -18,6 +18,8 @@ Here's what it looks like now:
   * At the moment, [Dean Allen's own website](http://textism.com/ "Dean Allen's site") seems to be down. I wonder if it happens to be on one of the TextDrive servers that can't seem to stay online.
   * His own Twitter handle, [@textism](http://twitter.com/textism "Dean Allen's Twitter stream"), hasn't been updated since June of last year.
   * The TextDrive home page hasn't had an update since last August.
+  * _Added:_ On Feb. 12th, [Jacques was removed as forum admin](http://discuss.textdrive.com/viewtopic.php?pid=8084#p8084).
+  * _Added:_ The forum banner text "Hey. Nothing will be deleted or shut down until migration is complete." was [removed sometime around Feb. 17th](http://discuss.textdrive.com/viewtopic.php?pid=8146#p8146).
   * At this point, it is safe to assume that no one is handling incoming support issues, and as of yet, there is one one else to take over keeping things running.
 
 So as you can see, TextDrive is just kind of sitting there with seemingly no one in charge.
