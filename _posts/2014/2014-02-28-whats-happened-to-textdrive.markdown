@@ -35,3 +35,5 @@ A recent tweet from the last employee doesn't sound all that hopeful:
 
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/davidspeed">@davidspeed</a> no clue. Still waiting for an answer on that from Dean.</p>&mdash; Jacques Marneweck (@txdjm) <a href="https://twitter.com/txdjm/statuses/438842219932291072">February 27, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Feel free to discuss on Hacker News: [https://news.ycombinator.com/item?id=7318940](https://news.ycombinator.com/item?id=7318940).
