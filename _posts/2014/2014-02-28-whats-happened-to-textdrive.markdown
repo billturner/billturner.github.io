@@ -6,6 +6,27 @@ description: "The rebirth of TextDrive started off rough, but there was still ho
 tags:
 - hosting
 ---
+
+**Update March 3, 2014:** Well, it looks like we have our answer. The [TextDrive home page](http://textdrive.com/) was wiped of any real content, and this message was posted to the [discuss.textdrive.com](http://discuss.textdrive.com/) domain (taking down the forums in the process):
+
+> As anyone looking for decent support or even useful information over the past few months can attest, the revival of TextDrive has not been a success.
+
+> What began in mid-2012 as an exciting challenge fuelled by good intentions and lean resources quickly turned into a cleanup project with almost no resources.
+
+> It is disappointing to report that after a year and a half of uphill battles and unimagined setbacks, after several costly efforts to regroup and find another way, options to keep TextDrive growing have run out, and we will cease operations on the 14th of March, 2014.
+
+> For those who wish to know, details of what went wrong will be made available once shutdown operations have completed.
+
+> Sorry to have let you down.
+
+> Dean
+
+So, anyone with anything left on the TextDrive servers has less than two weeks to get their content off (and switch DNS, transfer email, etc.).
+
+You can still read the details below, although any links to the forums are no longer working. For discussion, there's still a [post at Hacker News](https://news.ycombinator.com/item?id=7318940) open, and also the [Ex-Joyeurs Google Group](https://groups.google.com/forum/#!forum/ex-joyeurs).
+
+---
+
 What started to seem like a promising rebirth of [TextDrive](http://textdrive.com/ "The TextDrive home page"), after the [bungled jettison of customers from Joyent](http://gigaom.com/2012/08/30/a-user-revolt-and-the-second-coming-of-textdrive/), has once again turned sour. Really sour. In fact, it appears that no one is minding the store anymore. 
 
 Here's what it looks like now:
