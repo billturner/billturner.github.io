@@ -25,6 +25,8 @@ So, anyone with anything left on the TextDrive servers has less than two weeks t
 
 You can still read the details below, although any links to the forums are no longer working. For discussion, there's still a [post at Hacker News](https://news.ycombinator.com/item?id=7318940) open, and also the [Ex-Joyeurs Google Group](https://groups.google.com/forum/#!forum/ex-joyeurs).
 
+Also, for anyone looking to relocate from TextDrive (or just looking for a new web host) you could try out [Kaizen Garden](http://kaizengarden.co/lp/textugees). They're a new host put together by Jacques (a.k.a. the reliable one) from TextDrive.
+
 ---
 
 What started to seem like a promising rebirth of [TextDrive](http://textdrive.com/ "The TextDrive home page"), after the [bungled jettison of customers from Joyent](http://gigaom.com/2012/08/30/a-user-revolt-and-the-second-coming-of-textdrive/), has once again turned sour. Really sour. In fact, it appears that no one is minding the store anymore. 
