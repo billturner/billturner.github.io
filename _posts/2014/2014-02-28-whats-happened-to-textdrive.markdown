@@ -6,6 +6,13 @@ description: "The rebirth of TextDrive started off rough, but there was still ho
 tags:
 - hosting
 ---
+**Update March 31, 2014:** The March 14th date came and went without much happening. The servers seemed to still be up, thanks to Jacques. But then sometime in the last few days (maybe the 28th), the remaining servers finally went dark. Throughout all that time, before and after the 14th, there was **never** a notice from Dean Allen about the pending shutdown. There were only two ways you could have found out about the shutdown: 1) you tried to visit the forums and saw the announcement, or 2) you happened to see it mentioned on Twitter.
+
+Speaking of Twitter, there are now [loads of messages](https://twitter.com/search?q=textdrive&src=typd&f=realtime) from those just now finding out that their websites are gone and their email no longer works.
+
+Throughout all of this, [Jacques Marneweck](https://twitter.com/txdjm) has been a saint, and he's doing what he can to recover whatever data he can for those who hadn't migrated off in time (mainly because they had no idea). There's a quickly-growing list of folks hoping that their data can be recovered [over on the Kaizen Garden forums](http://discuss.kaizengarden.co/viewtopic.php?id=104).
+
+What a mess.
 
 **Update March 3, 2014:** Well, it looks like we have our answer. The [TextDrive home page](http://textdrive.com/) was wiped of any real content, and this message was posted to the [discuss.textdrive.com](http://discuss.textdrive.com/) domain (taking down the forums in the process):
 
